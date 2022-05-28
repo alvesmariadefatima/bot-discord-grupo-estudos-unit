@@ -1,0 +1,16 @@
+Comandos para interagir com o bot Grupo Estudos Unit CC: 
+
+!disciplinas1periodo: Visualizar matérias do 1º Período
+ !disciplinas2periodo: Visualizar matérias do 2º Período
+ !disciplinas3periodo: Visualizar matérias do 3º Período
+ !disciplinas4periodo: Visualizar matérias do 4º Período
+ !disciplinas5periodo: Visualizar matérias do 5º Período
+ !disciplinas6periodo: Visualizar matérias do 6º Período
+ !disciplinas7periodo: Visualizar matérias do 7º Período
+ !disciplinas8periodo: Visualizar matérias do 8º Período
+ !disciplinas9periodo: Visualizar matérias do 9º Período
+ !disciplinasoptativas6periodo: Visualizar matérias optativas do 6º Período
+ !disciplinasoptativas8periodo: Visualizar matérias optativas do 8º Período
+ !magister: Acessar o Magister
+ !ava: Acessar o Ambiente Virtual de Aprendizagem (AVA)
+ !portalunit: Acessa o site da universidade
