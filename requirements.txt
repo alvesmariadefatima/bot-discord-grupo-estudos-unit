@@ -1,2 +1,3 @@
 discord
 os
+python-dotenv
